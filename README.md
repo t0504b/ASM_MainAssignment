@@ -1,4 +1,4 @@
-# ASM_MainAssignment
+# Wine Rating Estimation_Applied Statistical Modelling_MainAssignment
 
 As a part of coursework related to the subject 'Applied Statistical Modelling' in Trinity College Dublin, this project aims to analyse thw wine reviews dataset taken from the Kaggle website: https://www.kaggle.com/zynicide/wine-reviews. The use of statistical methods like Gibbs sampling using Markov Chain Monte Carlo (MCMC) approach to compare each wine's marginal probability, linear regression to estimate the points value for wines from the USA.
 
